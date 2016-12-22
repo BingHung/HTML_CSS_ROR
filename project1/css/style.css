@@ -1,0 +1,28 @@
+body{
+	line-height: 1;
+	/*color: white;*/
+	font-family: arial;
+	text-align: center;
+
+	background: url(../images/seamless-paper-texture.png);
+	/* FULL PAGE BACKGROUND */	
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.container{
+	width: 50%;
+	margin: 0 auto;
+	background: rgba(255,255,255,0.3);
+	padding: 15px;
+	border-radius: 30px;
+}
+
+h1{
+	font-size: 100px;
+}
+
+a{
+	text-decoration: none;
+}
